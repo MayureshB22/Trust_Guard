@@ -2,7 +2,9 @@
 Trust Guard — Transaction Fraud Monitoring System
 Main Streamlit orchestrator connecting all modules via sidebar navigation.
 
-Currently implements Feature 1: Transaction Upload & Viewer.
+Currently implements:
+  - Feature 1: Transaction Upload & Viewer
+  - Feature 2: Fraud Rules Engine
 Other feature tabs are placeholders for future development.
 """
 
@@ -15,6 +17,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 from init_db import seed_from_data_dir
 from ui.viewer import render as render_viewer
+from ui.rules_config import render as render_rules
 
 
 # ---------------------------------------------------------------------------
@@ -166,8 +169,7 @@ with st.sidebar:
 if nav == "📊 Transaction Viewer":
     render_viewer()
 elif nav == "⚙️ Rules Engine":
-    st.title("⚙️ Rules Engine")
-    st.info("🚧 Feature 2 — Coming soon. Configure fraud detection rules here.")
+    render_rules()
 elif nav == "🎯 Risk Scoring":
     st.title("🎯 Risk Scoring")
     st.info("🚧 Feature 3 — Coming soon. View transaction risk scores here.")
