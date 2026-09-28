@@ -1,0 +1,301 @@
+txn_id,customer_id,timestamp,amount,merchant,merchant_category,city,channel
+TXN_00204,CUST_036,2026-09-25 23:45:00,1854.42,Uber,Travel,Bengaluru,netbanking
+TXN_00267,CUST_047,2026-09-19 03:52:00,11315.12,Swiggy,Dining,Delhi,UPI
+TXN_00153,CUST_014,2026-09-07 19:48:00,1687.64,Reliance Digital,Electronics,Kolkata,UPI
+TXN_00010,CUST_034,2026-09-14 21:59:00,5670.67,Flipkart,Shopping,Bengaluru,card
+TXN_00234,CUST_016,2026-09-23 18:12:00,257.11,BigBasket,Grocery,Delhi,UPI
+TXN_00227,CUST_040,2026-09-04 19:06:00,15180.6,IRCTC,Travel,Bengaluru,card
+TXN_00197,CUST_028,2026-09-20 20:34:00,587.88,Reliance Digital,Electronics,Chennai,card
+TXN_00110,CUST_049,2026-09-05 05:10:00,4172.97,Kalyan Jewellers,Jewellery,Mumbai,card
+TXN_00006,CUST_047,2026-09-10 07:48:00,18172.28,Zomato,Dining,Delhi,card
+TXN_00176,CUST_027,2026-09-24 22:28:00,1364.57,Myntra,Shopping,Chennai,card
+TXN_00238,CUST_050,2026-09-22 23:39:00,8910.09,Uber,Travel,Bengaluru,netbanking
+TXN_00058,CUST_002,2026-09-19 15:05:00,7096.24,Kalyan Jewellers,Jewellery,Chennai,card
+TXN_00219,CUST_022,2026-09-12 01:46:00,2918.13,Reliance Digital,Electronics,Pune,card
+TXN_00046,CUST_040,2026-09-25 22:43:00,7503.87,Croma,Electronics,Bengaluru,UPI
+TXN_00183,CUST_046,2026-09-26 19:08:00,5003.84,DMart,Grocery,Hyderabad,netbanking
+TXN_00222,CUST_013,2026-09-17 07:29:00,1829.29,IRCTC,Travel,Kolkata,UPI
+TXN_00290,CUST_002,2026-09-02 11:40:00,29106.14,Apple Store,Electronics,Chennai,netbanking
+TXN_00212,CUST_010,2026-09-07 01:59:00,5038.2,Tanishq,Jewellery,Chennai,netbanking
+TXN_00149,CUST_022,2026-09-11 01:49:00,794.19,Amazon,Shopping,Pune,UPI
+TXN_00166,CUST_042,2026-09-21 06:32:00,3073.77,Zomato,Dining,Delhi,card
+TXN_00079,CUST_009,2026-09-26 06:06:00,4021.67,DMart,Grocery,Pune,card
+TXN_00114,CUST_019,2026-09-06 17:28:00,13169.74,Apple Store,Electronics,Bengaluru,card
+TXN_00250,CUST_011,2026-09-21 23:45:00,4922.12,Zomato,Dining,Hyderabad,card
+TXN_00251,CUST_037,2026-09-07 20:39:00,10205.34,Kalyan Jewellers,Jewellery,Pune,netbanking
+TXN_00105,CUST_025,2026-09-26 19:31:00,19947.17,Zepto,Grocery,Pune,netbanking
+TXN_00043,CUST_044,2026-09-07 00:25:00,5165.91,Amazon,Shopping,Mumbai,UPI
+TXN_00282,CUST_014,2026-09-14 16:36:00,2064.08,Swiggy,Dining,Kolkata,netbanking
+TXN_00296,CUST_006,2026-09-13 22:11:30,13891.29,Flipkart,Shopping,Hyderabad,UPI
+TXN_00158,CUST_016,2026-09-14 07:05:00,2908.08,IRCTC,Travel,Delhi,UPI
+TXN_00239,CUST_020,2026-09-11 00:45:00,1749.22,Haldiram's,Dining,Pune,card
+TXN_00018,CUST_007,2026-09-18 15:05:00,385.27,Swiggy,Dining,Mumbai,card
+TXN_00165,CUST_040,2026-09-14 05:37:00,13261.06,Amazon,Shopping,Bengaluru,netbanking
+TXN_00034,CUST_016,2026-09-26 20:56:00,5721.9,MakeMyTrip,Travel,Delhi,card
+TXN_00025,CUST_016,2026-09-06 00:29:00,1792.46,Croma,Electronics,Delhi,netbanking
+TXN_00216,CUST_050,2026-09-21 21:49:00,5939.73,Zara,Shopping,Hyderabad,UPI
+TXN_00120,CUST_019,2026-09-14 20:12:00,6375.86,Starbucks,Dining,Bengaluru,card
+TXN_00008,CUST_002,2026-09-13 00:15:00,919.14,Zepto,Grocery,Chennai,UPI
+TXN_00091,CUST_037,2026-09-01 23:36:00,8891.08,Zepto,Grocery,Pune,netbanking
+TXN_00047,CUST_002,2026-09-16 17:29:00,409.05,Uber,Travel,Chennai,card
+TXN_00074,CUST_045,2026-09-23 02:30:00,4551.68,Myntra,Shopping,Mumbai,netbanking
+TXN_00094,CUST_049,2026-09-15 17:20:00,3628.76,Reliance Digital,Electronics,Bengaluru,card
+TXN_00077,CUST_049,2026-09-10 18:53:00,3463.12,Starbucks,Dining,Bengaluru,UPI
+TXN_00287,CUST_041,2026-09-09 19:00:00,812895.88,Tanishq,Jewellery,Chennai,card
+TXN_00061,CUST_004,2026-09-12 22:41:00,15951.7,Blinkit,Grocery,Mumbai,UPI
+TXN_00078,CUST_020,2026-09-18 19:17:00,156.91,Blinkit,Grocery,Pune,netbanking
+TXN_00064,CUST_020,2026-09-02 00:36:00,866.85,Kalyan Jewellers,Jewellery,Pune,netbanking
+TXN_00235,CUST_027,2026-09-15 07:49:00,2541.67,Zara,Shopping,Chennai,netbanking
+TXN_00230,CUST_009,2026-09-21 01:10:00,2092.07,IRCTC,Travel,Pune,netbanking
+TXN_00112,CUST_011,2026-09-21 03:39:00,1216.65,Tanishq,Jewellery,Hyderabad,netbanking
+TXN_00232,CUST_027,2026-09-26 15:38:00,2156.28,IRCTC,Travel,Kolkata,netbanking
+TXN_00181,CUST_010,2026-09-03 22:52:00,13680.69,IRCTC,Travel,Hyderabad,UPI
+TXN_00145,CUST_023,2026-09-12 18:48:00,3258.79,Apple Store,Electronics,Hyderabad,card
+TXN_00240,CUST_036,2026-09-26 23:18:00,14356.83,BigBasket,Grocery,Chennai,card
+TXN_00076,CUST_013,2026-09-24 20:12:00,785.73,Haldiram's,Dining,Kolkata,netbanking
+TXN_00298,CUST_011,2026-09-17 00:20:00,17159.65,Croma,Electronics,Bengaluru,card
+TXN_00279,CUST_013,2026-09-05 06:58:00,2293.18,Swiggy,Dining,Kolkata,UPI
+TXN_00098,CUST_036,2026-09-14 17:14:00,259.53,BigBasket,Grocery,Chennai,UPI
+TXN_00093,CUST_022,2026-09-04 20:21:00,1567.88,IndiGo,Travel,Pune,card
+TXN_00193,CUST_003,2026-09-02 21:56:00,1524.74,DMart,Grocery,Pune,card
+TXN_00026,CUST_037,2026-09-03 21:32:00,15049.53,Croma,Electronics,Mumbai,UPI
+TXN_00233,CUST_037,2026-09-03 06:10:00,3476.42,Zara,Shopping,Pune,netbanking
+TXN_00060,CUST_018,2026-09-14 23:53:00,7490.03,BigBasket,Grocery,Mumbai,netbanking
+TXN_00007,CUST_041,2026-09-07 19:23:00,8241.28,Zomato,Dining,Chennai,card
+TXN_00186,CUST_004,2026-09-22 05:04:00,3841.94,BigBasket,Grocery,Mumbai,UPI
+TXN_00174,CUST_010,2026-09-26 18:32:00,1315.65,Amazon,Shopping,Chennai,netbanking
+TXN_00031,CUST_017,2026-09-16 04:35:00,1506.83,Blinkit,Grocery,Kolkata,netbanking
+TXN_00023,CUST_016,2026-09-19 22:37:00,2698.81,Amazon,Shopping,Delhi,card
+TXN_00257,CUST_024,2026-09-19 06:48:00,7949.17,Flipkart,Shopping,Bengaluru,netbanking
+TXN_00057,CUST_025,2026-09-23 03:46:00,6816.42,Haldiram's,Dining,Pune,netbanking
+TXN_00187,CUST_041,2026-09-08 19:18:00,8365.73,MakeMyTrip,Travel,Chennai,UPI
+TXN_00109,CUST_040,2026-09-22 00:14:00,1571.53,Tanishq,Jewellery,Bengaluru,UPI
+TXN_00127,CUST_043,2026-09-24 04:37:00,16909.44,Tanishq,Jewellery,Kolkata,netbanking
+TXN_00231,CUST_033,2026-09-24 00:30:00,2974.54,DMart,Grocery,Bengaluru,UPI
+TXN_00194,CUST_035,2026-09-02 21:18:00,7819.37,Croma,Electronics,Bengaluru,card
+TXN_00130,CUST_013,2026-09-15 17:42:00,2307.47,Zomato,Dining,Kolkata,card
+TXN_00283,CUST_038,2026-09-15 00:09:00,9875.05,Starbucks,Dining,Pune,netbanking
+TXN_00083,CUST_020,2026-09-15 00:36:00,6549.89,Amazon,Shopping,Pune,netbanking
+TXN_00085,CUST_036,2026-09-02 04:28:00,1200.2,Kalyan Jewellers,Jewellery,Chennai,UPI
+TXN_00067,CUST_033,2026-09-02 04:52:00,3607.44,MakeMyTrip,Travel,Bengaluru,card
+TXN_00289,CUST_004,2026-09-22 01:00:00,784431.81,Tanishq,Jewellery,Mumbai,card
+TXN_00164,CUST_030,2026-09-03 02:53:00,3174.54,Croma,Electronics,Kolkata,UPI
+TXN_00155,CUST_023,2026-09-24 16:27:00,323.58,BigBasket,Grocery,Kolkata,card
+TXN_00020,CUST_019,2026-09-25 06:09:00,8240.17,Starbucks,Dining,Bengaluru,UPI
+TXN_00125,CUST_005,2026-09-16 00:41:00,2566.52,MakeMyTrip,Travel,Pune,UPI
+TXN_00080,CUST_022,2026-09-02 23:55:00,921.62,MakeMyTrip,Travel,Pune,card
+TXN_00115,CUST_045,2026-09-10 21:24:00,4677.36,MakeMyTrip,Travel,Mumbai,netbanking
+TXN_00119,CUST_042,2026-09-27 05:02:00,683.26,Myntra,Shopping,Delhi,UPI
+TXN_00073,CUST_045,2026-09-24 06:28:00,8858.76,Blinkit,Grocery,Mumbai,card
+TXN_00016,CUST_007,2026-09-25 01:51:00,451.71,Zepto,Grocery,Mumbai,netbanking
+TXN_00011,CUST_043,2026-09-16 07:28:00,11590.76,Zepto,Grocery,Kolkata,card
+TXN_00195,CUST_018,2026-09-13 04:56:00,1281.5,IndiGo,Travel,Mumbai,card
+TXN_00102,CUST_047,2026-09-20 06:55:00,6227.42,Haldiram's,Dining,Delhi,card
+TXN_00069,CUST_050,2026-09-14 23:20:00,4987.26,Zomato,Dining,Hyderabad,card
+TXN_00225,CUST_009,2026-09-25 02:48:00,5544.58,IRCTC,Travel,Pune,UPI
+TXN_00038,CUST_022,2026-09-04 23:11:00,4490.46,Myntra,Shopping,Pune,netbanking
+TXN_00017,CUST_029,2026-09-06 23:29:00,3155.14,Zomato,Dining,Bengaluru,netbanking
+TXN_00180,CUST_046,2026-09-05 00:05:00,6497.18,Starbucks,Dining,Hyderabad,netbanking
+TXN_00148,CUST_005,2026-09-21 15:05:00,611.9,Tanishq,Jewellery,Pune,card
+TXN_00275,CUST_030,2026-09-19 04:26:00,6374.53,Flipkart,Shopping,Kolkata,card
+TXN_00068,CUST_041,2026-09-15 19:27:00,14435.81,Starbucks,Dining,Chennai,netbanking
+TXN_00229,CUST_003,2026-09-12 06:33:00,738.7,Uber,Travel,Delhi,netbanking
+TXN_00070,CUST_016,2026-09-20 03:21:00,4973.2,BigBasket,Grocery,Delhi,UPI
+TXN_00032,CUST_010,2026-09-12 19:27:00,8998.68,Zomato,Dining,Chennai,UPI
+TXN_00184,CUST_009,2026-09-17 05:39:00,4774.9,Blinkit,Grocery,Pune,UPI
+TXN_00266,CUST_026,2026-09-24 22:53:00,7396.35,Blinkit,Grocery,Hyderabad,netbanking
+TXN_00226,CUST_037,2026-09-13 00:04:00,8510.01,IndiGo,Travel,Pune,card
+TXN_00141,CUST_043,2026-09-06 06:04:00,4576.42,Blinkit,Grocery,Kolkata,UPI
+TXN_00019,CUST_014,2026-09-02 20:24:00,4747.73,BigBasket,Grocery,Kolkata,card
+TXN_00182,CUST_026,2026-09-09 03:05:00,7023.57,Croma,Electronics,Bengaluru,UPI
+TXN_00097,CUST_029,2026-09-16 18:01:00,19561.4,Tanishq,Jewellery,Bengaluru,card
+TXN_00133,CUST_008,2026-09-01 19:00:00,9563.2,Croma,Electronics,Pune,UPI
+TXN_00263,CUST_005,2026-09-02 17:59:00,2193.28,MakeMyTrip,Travel,Pune,UPI
+TXN_00087,CUST_038,2026-09-08 04:07:00,11266.85,Flipkart,Shopping,Pune,card
+TXN_00249,CUST_035,2026-09-06 07:29:00,8655.04,Croma,Electronics,Bengaluru,card
+TXN_00246,CUST_004,2026-09-03 22:34:00,14489.07,Tanishq,Jewellery,Delhi,card
+TXN_00117,CUST_044,2026-09-03 06:53:00,5372.27,Croma,Electronics,Mumbai,card
+TXN_00147,CUST_045,2026-09-12 02:00:00,14156.24,Swiggy,Dining,Mumbai,card
+TXN_00293,CUST_012,2026-09-05 09:38:00,22020.23,Apple Store,Electronics,Pune,netbanking
+TXN_00198,CUST_043,2026-09-16 04:10:00,5300.08,Kalyan Jewellers,Jewellery,Kolkata,UPI
+TXN_00207,CUST_046,2026-09-23 20:50:00,5458.12,Apple Store,Electronics,Hyderabad,UPI
+TXN_00056,CUST_020,2026-09-14 22:31:00,5743.67,Starbucks,Dining,Pune,UPI
+TXN_00173,CUST_024,2026-09-08 01:49:00,5917.05,Uber,Travel,Bengaluru,UPI
+TXN_00185,CUST_010,2026-09-25 07:27:00,9051.39,DMart,Grocery,Chennai,UPI
+TXN_00168,CUST_040,2026-09-13 00:24:00,3580.17,IRCTC,Travel,Bengaluru,UPI
+TXN_00140,CUST_027,2026-09-16 03:26:00,1273.03,Tanishq,Jewellery,Chennai,card
+TXN_00254,CUST_037,2026-09-22 02:44:00,222.2,Zomato,Dining,Pune,card
+TXN_00039,CUST_028,2026-09-27 01:27:00,2405.84,Amazon,Shopping,Chennai,netbanking
+TXN_00126,CUST_020,2026-09-04 18:15:00,7575.77,Flipkart,Shopping,Pune,card
+TXN_00196,CUST_022,2026-09-17 06:23:00,4653.5,Myntra,Shopping,Pune,netbanking
+TXN_00284,CUST_016,2026-09-22 01:16:00,3325.47,IndiGo,Travel,Delhi,netbanking
+TXN_00138,CUST_009,2026-09-22 01:24:00,1762.38,Myntra,Shopping,Pune,netbanking
+TXN_00113,CUST_010,2026-09-21 23:29:00,3858.32,Apple Store,Electronics,Chennai,card
+TXN_00169,CUST_041,2026-09-04 01:06:00,10494.45,Zara,Shopping,Chennai,netbanking
+TXN_00118,CUST_015,2026-09-20 23:43:00,5836.9,Tanishq,Jewellery,Hyderabad,netbanking
+TXN_00278,CUST_047,2026-09-08 06:13:00,13942.99,Reliance Digital,Electronics,Mumbai,UPI
+TXN_00272,CUST_043,2026-09-15 00:17:00,9306.56,Zepto,Grocery,Kolkata,card
+TXN_00156,CUST_037,2026-09-14 04:18:00,6514.3,BigBasket,Grocery,Pune,card
+TXN_00177,CUST_015,2026-09-11 06:57:00,4904.2,Starbucks,Dining,Hyderabad,netbanking
+TXN_00179,CUST_039,2026-09-09 16:41:00,1649.99,IRCTC,Travel,Delhi,UPI
+TXN_00003,CUST_010,2026-09-27 04:38:00,10341.26,BigBasket,Grocery,Chennai,card
+TXN_00116,CUST_023,2026-09-24 00:01:00,2231.82,Kalyan Jewellers,Jewellery,Hyderabad,netbanking
+TXN_00144,CUST_023,2026-09-17 21:09:00,443.24,Kalyan Jewellers,Jewellery,Hyderabad,UPI
+TXN_00178,CUST_029,2026-09-11 03:32:00,10276.55,Zara,Shopping,Kolkata,UPI
+TXN_00121,CUST_011,2026-09-17 00:47:00,1762.43,Croma,Electronics,Hyderabad,UPI
+TXN_00211,CUST_041,2026-09-25 19:27:00,9534.09,Amazon,Shopping,Chennai,netbanking
+TXN_00261,CUST_009,2026-09-15 16:35:00,3245.72,IRCTC,Travel,Pune,card
+TXN_00128,CUST_007,2026-09-21 04:17:00,5575.23,DMart,Grocery,Mumbai,card
+TXN_00075,CUST_036,2026-09-24 05:17:00,5118.62,Reliance Digital,Electronics,Chennai,netbanking
+TXN_00030,CUST_004,2026-09-14 23:02:00,1517.84,DMart,Grocery,Mumbai,netbanking
+TXN_00084,CUST_007,2026-09-07 21:16:00,6330.08,Tanishq,Jewellery,Mumbai,UPI
+TXN_00270,CUST_026,2026-09-18 21:48:00,6147.8,Zepto,Grocery,Bengaluru,card
+TXN_00108,CUST_042,2026-09-12 03:20:00,1340.14,Kalyan Jewellers,Jewellery,Delhi,UPI
+TXN_00224,CUST_039,2026-09-22 06:18:00,10250.52,Amazon,Shopping,Delhi,card
+TXN_00159,CUST_022,2026-09-04 07:40:00,3733.46,Zepto,Grocery,Bengaluru,card
+TXN_00281,CUST_033,2026-09-15 18:51:00,4899.94,Kalyan Jewellers,Jewellery,Bengaluru,card
+TXN_00247,CUST_012,2026-09-03 03:50:00,7365.75,Uber,Travel,Kolkata,card
+TXN_00223,CUST_026,2026-09-08 21:37:00,7071.32,Croma,Electronics,Bengaluru,card
+TXN_00066,CUST_008,2026-09-19 16:22:00,11508.41,Zara,Shopping,Pune,UPI
+TXN_00199,CUST_047,2026-09-13 04:17:00,18051.95,Tanishq,Jewellery,Delhi,netbanking
+TXN_00086,CUST_019,2026-09-24 05:04:00,13737.91,Tanishq,Jewellery,Kolkata,netbanking
+TXN_00214,CUST_040,2026-09-17 20:37:00,11913.4,Flipkart,Shopping,Bengaluru,netbanking
+TXN_00160,CUST_047,2026-09-21 19:15:00,19876.61,Zepto,Grocery,Delhi,UPI
+TXN_00013,CUST_022,2026-09-08 23:42:00,384.99,Uber,Travel,Pune,netbanking
+TXN_00036,CUST_031,2026-09-16 02:19:00,2251.55,Swiggy,Dining,Mumbai,UPI
+TXN_00029,CUST_018,2026-09-08 01:13:00,2837.56,Kalyan Jewellers,Jewellery,Mumbai,card
+TXN_00143,CUST_023,2026-09-26 04:55:00,3365.96,Tanishq,Jewellery,Pune,card
+TXN_00285,CUST_023,2026-09-25 06:11:00,692.48,Amazon,Shopping,Hyderabad,UPI
+TXN_00255,CUST_020,2026-09-23 07:59:00,1256.91,Kalyan Jewellers,Jewellery,Pune,netbanking
+TXN_00171,CUST_045,2026-09-05 17:19:00,12300.94,Zara,Shopping,Mumbai,card
+TXN_00052,CUST_050,2026-09-16 22:17:00,7991.26,MakeMyTrip,Travel,Hyderabad,UPI
+TXN_00096,CUST_049,2026-09-15 16:13:00,3293.04,Apple Store,Electronics,Bengaluru,card
+TXN_00209,CUST_009,2026-09-03 17:19:00,3860.27,IndiGo,Travel,Pune,card
+TXN_00248,CUST_003,2026-09-19 18:59:00,96.57,Reliance Digital,Electronics,Delhi,netbanking
+TXN_00042,CUST_027,2026-09-24 00:35:00,1227.03,Swiggy,Dining,Chennai,card
+TXN_00090,CUST_003,2026-09-25 01:38:00,4519.92,Croma,Electronics,Delhi,netbanking
+TXN_00245,CUST_011,2026-09-17 06:41:00,2761.6,Starbucks,Dining,Hyderabad,netbanking
+TXN_00137,CUST_032,2026-09-15 17:57:00,10787.75,DMart,Grocery,Hyderabad,UPI
+TXN_00027,CUST_024,2026-09-16 00:39:00,5463.46,Tanishq,Jewellery,Bengaluru,netbanking
+TXN_00294,CUST_006,2026-09-13 22:10:00,10151.59,Flipkart,Shopping,Hyderabad,UPI
+TXN_00142,CUST_048,2026-09-26 19:35:00,14786.35,DMart,Grocery,Pune,card
+TXN_00201,CUST_016,2026-09-13 02:24:00,5157.14,Amazon,Shopping,Delhi,netbanking
+TXN_00001,CUST_042,2026-09-09 19:15:00,7420.74,Kalyan Jewellers,Jewellery,Delhi,card
+TXN_00269,CUST_016,2026-09-04 16:28:00,1401.92,Amazon,Shopping,Delhi,UPI
+TXN_00273,CUST_036,2026-09-13 03:50:00,7644.26,Myntra,Shopping,Chennai,card
+TXN_00101,CUST_050,2026-09-15 01:59:00,8117.18,Myntra,Shopping,Hyderabad,card
+TXN_00260,CUST_029,2026-09-08 06:05:00,2624.8,Zara,Shopping,Bengaluru,card
+TXN_00256,CUST_019,2026-09-08 22:08:00,7166.3,Uber,Travel,Bengaluru,netbanking
+TXN_00172,CUST_009,2026-09-25 07:05:00,4222.45,Kalyan Jewellers,Jewellery,Pune,UPI
+TXN_00099,CUST_032,2026-09-11 07:45:00,14107.52,Reliance Digital,Electronics,Hyderabad,card
+TXN_00037,CUST_026,2026-09-03 23:22:00,4610.01,Kalyan Jewellers,Jewellery,Bengaluru,netbanking
+TXN_00062,CUST_013,2026-09-20 19:15:00,2006.75,Haldiram's,Dining,Kolkata,netbanking
+TXN_00151,CUST_027,2026-09-26 07:07:00,1035.72,Reliance Digital,Electronics,Chennai,netbanking
+TXN_00237,CUST_025,2026-09-07 05:58:00,6365.96,Myntra,Shopping,Pune,netbanking
+TXN_00203,CUST_021,2026-09-08 18:01:00,11077.64,Tanishq,Jewellery,Mumbai,card
+TXN_00243,CUST_009,2026-09-24 22:15:00,730.1,Zepto,Grocery,Pune,UPI
+TXN_00012,CUST_002,2026-09-08 22:00:00,4620.77,Blinkit,Grocery,Chennai,UPI
+TXN_00297,CUST_006,2026-09-13 22:12:15,10603.95,Flipkart,Shopping,Hyderabad,UPI
+TXN_00268,CUST_018,2026-09-24 18:02:00,1914.74,Kalyan Jewellers,Jewellery,Mumbai,UPI
+TXN_00028,CUST_020,2026-09-04 19:16:00,7090.86,Blinkit,Grocery,Pune,UPI
+TXN_00220,CUST_033,2026-09-11 22:29:00,3135.57,DMart,Grocery,Bengaluru,UPI
+TXN_00005,CUST_049,2026-09-22 01:07:00,1785.88,Reliance Digital,Electronics,Bengaluru,UPI
+TXN_00123,CUST_001,2026-09-05 05:23:00,1228.02,Kalyan Jewellers,Jewellery,Chennai,netbanking
+TXN_00033,CUST_023,2026-09-08 18:22:00,847.39,Zara,Shopping,Chennai,UPI
+TXN_00205,CUST_032,2026-09-05 17:28:00,3067.21,Haldiram's,Dining,Kolkata,netbanking
+TXN_00163,CUST_031,2026-09-10 23:37:00,4426.78,DMart,Grocery,Mumbai,card
+TXN_00210,CUST_037,2026-09-11 17:28:00,1160.56,IRCTC,Travel,Pune,netbanking
+TXN_00286,CUST_043,2026-09-03 18:00:00,778924.66,Tanishq,Jewellery,Kolkata,card
+TXN_00139,CUST_028,2026-09-23 18:54:00,725.9,Tanishq,Jewellery,Chennai,UPI
+TXN_00063,CUST_014,2026-09-10 02:10:00,2576.58,Amazon,Shopping,Kolkata,UPI
+TXN_00136,CUST_034,2026-09-21 15:03:00,1993.26,IndiGo,Travel,Bengaluru,UPI
+TXN_00129,CUST_016,2026-09-05 02:34:00,5661.84,Kalyan Jewellers,Jewellery,Delhi,card
+TXN_00291,CUST_002,2026-09-18 11:22:00,32464.93,Apple Store,Electronics,Chennai,netbanking
+TXN_00009,CUST_006,2026-09-03 19:08:00,2131.25,Kalyan Jewellers,Jewellery,Delhi,card
+TXN_00071,CUST_032,2026-09-26 23:21:00,3247.2,Apple Store,Electronics,Hyderabad,card
+TXN_00265,CUST_025,2026-09-22 19:41:00,1665.46,Croma,Electronics,Pune,netbanking
+TXN_00065,CUST_013,2026-09-23 22:06:00,227.19,Kalyan Jewellers,Jewellery,Kolkata,netbanking
+TXN_00045,CUST_031,2026-09-26 20:42:00,7906.04,DMart,Grocery,Mumbai,netbanking
+TXN_00280,CUST_036,2026-09-11 03:29:00,4978.02,Myntra,Shopping,Chennai,card
+TXN_00157,CUST_011,2026-09-21 05:53:00,5389.95,Kalyan Jewellers,Jewellery,Hyderabad,UPI
+TXN_00041,CUST_043,2026-09-21 01:42:00,16401.37,DMart,Grocery,Kolkata,netbanking
+TXN_00124,CUST_024,2026-09-09 06:01:00,2108.08,Myntra,Shopping,Delhi,netbanking
+TXN_00276,CUST_014,2026-09-04 05:54:00,1844.35,Croma,Electronics,Kolkata,UPI
+TXN_00217,CUST_032,2026-09-19 00:41:00,13449.5,Reliance Digital,Electronics,Hyderabad,netbanking
+TXN_00154,CUST_032,2026-09-06 19:24:00,11309.45,Flipkart,Shopping,Hyderabad,netbanking
+TXN_00024,CUST_043,2026-09-18 01:59:00,10415.06,Croma,Electronics,Kolkata,card
+TXN_00262,CUST_017,2026-09-24 21:37:00,7411.17,Blinkit,Grocery,Kolkata,netbanking
+TXN_00111,CUST_004,2026-09-13 04:09:00,4715.48,Haldiram's,Dining,Mumbai,UPI
+TXN_00082,CUST_008,2026-09-14 22:49:00,8081.16,Zara,Shopping,Pune,card
+TXN_00208,CUST_009,2026-09-16 15:23:00,1524.03,Myntra,Shopping,Pune,netbanking
+TXN_00213,CUST_019,2026-09-09 21:40:00,16428.77,Myntra,Shopping,Bengaluru,card
+TXN_00040,CUST_013,2026-09-24 04:00:00,643.91,Flipkart,Shopping,Kolkata,UPI
+TXN_00241,CUST_023,2026-09-26 19:18:00,3673.41,DMart,Grocery,Mumbai,card
+TXN_00292,CUST_019,2026-09-02 11:49:00,36198.89,Apple Store,Electronics,Bengaluru,netbanking
+TXN_00259,CUST_008,2026-09-19 07:12:00,938.75,Flipkart,Shopping,Pune,netbanking
+TXN_00200,CUST_026,2026-09-26 20:01:00,5096.89,Haldiram's,Dining,Bengaluru,UPI
+TXN_00015,CUST_028,2026-09-15 05:55:00,2464.52,Tanishq,Jewellery,Chennai,netbanking
+TXN_00048,CUST_032,2026-09-05 15:57:00,6073.81,BigBasket,Grocery,Hyderabad,netbanking
+TXN_00095,CUST_033,2026-09-02 05:26:00,4581.94,Zepto,Grocery,Bengaluru,netbanking
+TXN_00264,CUST_050,2026-09-22 04:23:00,1432.94,IndiGo,Travel,Hyderabad,card
+TXN_00228,CUST_036,2026-09-25 19:12:00,14437.24,Zara,Shopping,Chennai,UPI
+TXN_00274,CUST_010,2026-09-07 06:15:00,4968.72,Starbucks,Dining,Chennai,UPI
+TXN_00202,CUST_029,2026-09-13 05:48:00,21067.14,Zepto,Grocery,Bengaluru,card
+TXN_00162,CUST_049,2026-09-23 01:55:00,3819.84,Kalyan Jewellers,Jewellery,Bengaluru,UPI
+TXN_00044,CUST_028,2026-09-21 01:29:00,5404.9,IndiGo,Travel,Chennai,netbanking
+TXN_00218,CUST_026,2026-09-03 16:10:00,4181.77,IndiGo,Travel,Bengaluru,UPI
+TXN_00146,CUST_036,2026-09-20 15:38:00,14982.7,Kalyan Jewellers,Jewellery,Chennai,card
+TXN_00191,CUST_049,2026-09-03 02:34:00,2213.26,Apple Store,Electronics,Bengaluru,netbanking
+TXN_00221,CUST_007,2026-09-14 04:15:00,385.38,Starbucks,Dining,Chennai,card
+TXN_00252,CUST_021,2026-09-22 18:11:00,1522.55,Haldiram's,Dining,Mumbai,UPI
+TXN_00004,CUST_034,2026-09-18 15:43:00,1669.74,Tanishq,Jewellery,Bengaluru,netbanking
+TXN_00106,CUST_022,2026-09-15 18:33:00,4161.71,MakeMyTrip,Travel,Pune,card
+TXN_00054,CUST_046,2026-09-15 04:21:00,1680.7,Zara,Shopping,Hyderabad,UPI
+TXN_00134,CUST_012,2026-09-06 04:33:00,2128.72,Blinkit,Grocery,Pune,card
+TXN_00002,CUST_038,2026-09-08 19:32:00,6825.76,MakeMyTrip,Travel,Pune,UPI
+TXN_00132,CUST_022,2026-09-26 15:17:00,3711.01,Swiggy,Dining,Pune,UPI
+TXN_00104,CUST_025,2026-09-26 04:02:00,4751.71,Apple Store,Electronics,Pune,card
+TXN_00050,CUST_043,2026-09-19 01:48:00,9482.03,IndiGo,Travel,Kolkata,netbanking
+TXN_00081,CUST_032,2026-09-21 16:09:00,1166.61,Starbucks,Dining,Hyderabad,UPI
+TXN_00206,CUST_021,2026-09-23 17:35:00,11387.96,Myntra,Shopping,Mumbai,UPI
+TXN_00035,CUST_027,2026-09-24 22:17:00,2944.86,Zomato,Dining,Chennai,UPI
+TXN_00092,CUST_029,2026-09-07 04:40:00,20341.69,MakeMyTrip,Travel,Bengaluru,card
+TXN_00053,CUST_018,2026-09-18 17:08:00,3372.72,Swiggy,Dining,Mumbai,UPI
+TXN_00242,CUST_029,2026-09-25 06:13:00,14580.26,Starbucks,Dining,Chennai,card
+TXN_00014,CUST_037,2026-09-09 06:51:00,8726.77,Uber,Travel,Pune,netbanking
+TXN_00089,CUST_045,2026-09-13 23:32:00,5676.35,Zara,Shopping,Mumbai,netbanking
+TXN_00167,CUST_046,2026-09-21 20:02:00,692.74,Haldiram's,Dining,Pune,netbanking
+TXN_00295,CUST_006,2026-09-13 22:10:45,12158.74,Flipkart,Shopping,Hyderabad,UPI
+TXN_00135,CUST_033,2026-09-16 07:14:00,3311.45,Amazon,Shopping,Bengaluru,netbanking
+TXN_00288,CUST_001,2026-09-09 02:00:00,201344.02,Tanishq,Jewellery,Chennai,card
+TXN_00244,CUST_007,2026-09-24 06:06:00,2789.12,Tanishq,Jewellery,Mumbai,netbanking
+TXN_00055,CUST_027,2026-09-25 15:54:00,1455.42,Zara,Shopping,Chennai,card
+TXN_00051,CUST_029,2026-09-25 06:28:00,19923.82,Croma,Electronics,Bengaluru,card
+TXN_00175,CUST_009,2026-09-05 20:11:00,3768.73,Tanishq,Jewellery,Pune,UPI
+TXN_00190,CUST_002,2026-09-04 02:15:00,2824.39,Tanishq,Jewellery,Chennai,netbanking
+TXN_00299,CUST_011,2026-09-17 00:20:00,24470.87,Croma,Electronics,Pune,card
+TXN_00188,CUST_037,2026-09-22 17:33:00,6322.8,Croma,Electronics,Pune,netbanking
+TXN_00170,CUST_043,2026-09-20 19:21:00,17176.33,Zepto,Grocery,Bengaluru,netbanking
+TXN_00059,CUST_012,2026-09-14 01:13:00,443.9,IRCTC,Travel,Pune,card
+TXN_00049,CUST_034,2026-09-18 22:58:00,3042.87,BigBasket,Grocery,Bengaluru,card
+TXN_00236,CUST_047,2026-09-06 07:13:00,1338.66,Myntra,Shopping,Hyderabad,netbanking
+TXN_00253,CUST_001,2026-09-09 05:48:00,1211.66,Reliance Digital,Electronics,Chennai,netbanking
+TXN_00022,CUST_011,2026-09-17 17:54:00,429.04,Zomato,Dining,Hyderabad,netbanking
+TXN_00161,CUST_039,2026-09-25 17:11:00,1817.29,Kalyan Jewellers,Jewellery,Delhi,netbanking
+TXN_00277,CUST_004,2026-09-22 16:55:00,4319.39,Zepto,Grocery,Mumbai,netbanking
+TXN_00192,CUST_030,2026-09-16 20:51:00,6831.4,Zomato,Dining,Kolkata,card
+TXN_00258,CUST_049,2026-09-26 17:33:00,3926.18,IRCTC,Travel,Bengaluru,netbanking
+TXN_00150,CUST_011,2026-09-02 17:17:00,5077.5,IndiGo,Travel,Hyderabad,card
+TXN_00131,CUST_016,2026-09-26 21:04:00,6536.77,Flipkart,Shopping,Delhi,UPI
+TXN_00152,CUST_044,2026-09-18 00:02:00,4105.98,Haldiram's,Dining,Mumbai,UPI
+TXN_00100,CUST_016,2026-09-06 03:12:00,3046.57,Flipkart,Shopping,Delhi,card
+TXN_00088,CUST_010,2026-09-07 00:38:00,1221.25,Kalyan Jewellers,Jewellery,Chennai,card
+TXN_00215,CUST_047,2026-09-11 16:52:00,18713.31,Blinkit,Grocery,Delhi,netbanking
+TXN_00122,CUST_010,2026-09-09 03:54:00,12419.46,Myntra,Shopping,Chennai,card
+TXN_00300,CUST_011,2026-09-17 00:20:00,19345.03,Croma,Electronics,Kolkata,card
+TXN_00021,CUST_038,2026-09-03 01:03:00,12531.65,BigBasket,Grocery,Pune,netbanking
+TXN_00189,CUST_033,2026-09-14 06:02:00,3094.37,Kalyan Jewellers,Jewellery,Bengaluru,netbanking
+TXN_00072,CUST_036,2026-09-07 17:15:00,205.54,Kalyan Jewellers,Jewellery,Chennai,UPI
+TXN_00107,CUST_042,2026-09-04 06:50:00,15630.84,Reliance Digital,Electronics,Delhi,card
+TXN_00271,CUST_015,2026-09-25 01:36:00,7465.56,Myntra,Shopping,Hyderabad,UPI
+TXN_00103,CUST_022,2026-09-19 03:29:00,2659.32,Croma,Electronics,Delhi,netbanking
